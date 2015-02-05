@@ -2,9 +2,6 @@
 By default, Discourse supports sharing posts on Twitter, Facebook, Google+ and email.
 With this plugin, you can add support for sharing on LinkedIn in the same fashion.
 
-Note: Right now, Discourse will only expose the URL and post title to the sharing buttons, so no summary is
-included in the LinkedIn post.
-
 # How To Use
 
 1) Add a line to your app.yml (I'm assuming you're running Discourse in Docker. If not, you're on your own!)
