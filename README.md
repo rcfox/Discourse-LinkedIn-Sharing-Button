@@ -1,3 +1,9 @@
+# Out of Date
+
+It looks like the Discourse APIs have changed, and this plugin will no longer work for the latest versions of Discourse.
+
+I no longer run a Discourse instance myself and so have no interest in updating this plugin. I'm happy to link to your repository if you have a LinkedIn sharing plugin that can replace this one.
+
 # Discourse LinkedIn Sharing Button
 By default, Discourse supports sharing posts on Twitter, Facebook, Google+ and email.
 With this plugin, you can add support for sharing on LinkedIn in the same fashion.
